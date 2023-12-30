@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e74cd5ef49b5a949a2f34bff8451687, type: 3}
+  m_Name: b-Mewtwo
+  m_EditorClassIdentifier: 
+  characterPrefab: {fileID: 4146958518966682837, guid: cc137341a713588498dac6e03277f1aa, type: 3}
+  characterId: 200
+  baseExperience: 0
+  baseLevel: 10
+  baseHealth: 15
+  baseAttackPower: 5
+  visual: {fileID: 21300000, guid: 69d19efc9aee40544b85a60cd319e8d2, type: 3}
